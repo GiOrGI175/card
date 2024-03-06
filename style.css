@@ -1,0 +1,75 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.carddiv {
+  width: 551px;
+  height: 900px;
+  border: 3px solid #75464a;
+  border-radius: 28px;
+  margin-top: 100px;
+  margin-left: 450px;
+}
+
+.kybordimg {
+  margin: 36px 26px 0px 25px;
+}
+
+.text1 {
+  margin-left: 34px;
+  margin-top: 100px;
+}
+
+.txt1 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #75464a;
+}
+
+.txt2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #121111;
+}
+
+.txt3 {
+  font-size: 20px;
+  color: #ff0000;
+  margin-left: 153px;
+}
+
+.text2 {
+  margin-left: 34px;
+  margin-top: 41px;
+  margin-bottom: 89px;
+}
+
+.txt4 {
+  font-weight: 400;
+  font-size: 20px;
+  color: #ff0000;
+}
+
+.txt5 {
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+
+.addcard {
+  width: 255px;
+  height: 65px;
+  border-radius: 29px;
+  background-color: #3f3232;
+  text-align: center;
+
+  margin-left: 148px;
+}
+
+.txt6 {
+  padding-top: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
